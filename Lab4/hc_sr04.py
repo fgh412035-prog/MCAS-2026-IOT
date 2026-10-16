@@ -5,8 +5,8 @@ import time
 GPIO.setmode(GPIO.BCM)
 
 # 超聲波模組的 TRIG_y 與 ECHO_r 引腳設定
-TRIG_y =   # GPIO XX
-ECHO_r =   # GPIO XX
+TRIG_y =4   # GPIO XX
+ECHO_r =18   # GPIO XX
 
 
 # 設定引腳輸出入模式
